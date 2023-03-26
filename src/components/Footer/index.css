@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.footer-container {
+  background-color: #cbd5e1;
+  font-family: 'Roboto';
+}
+
+.heading-footer {
+  text-align: center;
+  padding: 30px;
+}

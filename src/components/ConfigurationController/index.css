@@ -1,0 +1,18 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+
+.layout-container {
+  background-color: #475569;
+  padding-left: 80px;
+  cursor: pointer;
+}
+
+.heading {
+  color: #ffffff;
+}
+
+.checking-items {
+  color: #ffffff;
+}

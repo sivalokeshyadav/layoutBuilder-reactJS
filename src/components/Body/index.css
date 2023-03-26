@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  flex-direction: row;
+  margin: 0px;
+}
+
+.body-left-container {
+  background-color: #e2e8f0;
+  padding-left: 50px;
+  color: black;
+}
+
+.heading {
+  color: black;
+}
+
+.items-container {
+  list-style: none;
+  padding: 20px;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f9;
+}
+
+.right-container {
+  background-color: #e2e8f0;
+  padding-left: 50px;
+}
+
+.box {
+  border: 2px solid black;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 20px;
+}
